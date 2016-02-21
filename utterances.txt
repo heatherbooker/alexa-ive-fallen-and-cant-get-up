@@ -1,0 +1,8 @@
+var incident = ['words', 'diff words', 'myabe words']
+var burn = [
+	'i burnt myself',
+	'im burnt',
+	'i got a burn',
+	'i have a burn'
+	'should i put butter on a burn'
+]

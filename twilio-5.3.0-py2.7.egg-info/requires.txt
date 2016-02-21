@@ -1,0 +1,15 @@
+httplib2 >= 0.7
+six
+pytz
+
+[:python_version=="3.2"]
+pysocks
+
+[:python_version=="3.3"]
+pysocks
+
+[:python_version=="3.4"]
+pysocks
+
+[:python_version=="3.5"]
+pysocks
